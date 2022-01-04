@@ -1,6 +1,6 @@
 name: build-test
 on:
-  push:
+  push:gh pr checkout 1582
     branches:
       - main
     paths-ignore:
